@@ -11,4 +11,9 @@ public class C31 {
         return nombre;
     }
 
+    public String mB() {
+        String nombre = "mB";
+        return nombre;
+    }
+
 }
